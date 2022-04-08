@@ -7,5 +7,5 @@
 - rot_model_path: file weights
 **2. Cài thư viện cần thiết **
 **3. Chạy file**
-    %cd /content/gdrive/MyDrive/MC_OCR/mc_ocr/rotation_corrector
-    !python3 inference.py
+   - Chọn đường dẫn: cd /content/gdrive/MyDrive/MC_OCR/mc_ocr/rotation_corrector
+   - Chạy: python3 inference.py
