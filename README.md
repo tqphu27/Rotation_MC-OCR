@@ -1,3 +1,5 @@
+- Link drive: https://drive.google.com/drive/folders/1-GTl0yr_7rAUy_tdjo19XA0f5rZXGkOS?usp=sharing
+
 1. Cài đặt môi trường, thư viện
 ```
 cd MC_OCR
