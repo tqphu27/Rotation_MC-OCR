@@ -10,7 +10,8 @@
 
 
 **3. Chạy file**
-- Chọn đường dẫn: 
-+ Chọn đường dẫn
+
+- cd MC_OCR
++ cd MC_OCR
    cd /content/gdrive/MyDrive/MC_OCR/mc_ocr/rotation_corrector
    python3 inference.py
