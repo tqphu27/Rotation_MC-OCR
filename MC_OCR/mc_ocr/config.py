@@ -42,10 +42,9 @@ det_out_txt_dir=full_path('/content/gdrive/MyDrive/MC_OCR/output/text_detector/p
 
 # rotation corrector  
 rot_drop_thresh = [.5, 2]
-rot_visualize = True
+rot_visualize = True #cho phép hiện thị thêm ảnh đã detector được xoay đúng
 #File weights
 rot_model_path = full_path('rotation_corrector/weights/mobilenetv3-Epoch-487-Loss-0.03-Acc-0.99.pth', file=True)
-
 #output 
 rot_out_img_dir = output_path('rotation_corrector/{}/imgs'.format(dataset))
 rot_out_txt_dir = output_path('rotation_corrector/{}/txt'.format(dataset))
